@@ -63,6 +63,18 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipinsethi534-blip/dipinsethi534-blip/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipinsethi534-blip/dipinsethi534-blip/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dipinsethi534-blip/dipinsethi534-blip/output/github-snake.svg">
+</picture>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 > Highlights of my engineering work and builds
